@@ -4,7 +4,7 @@ require('@css/normal/code.css')
 require('@css/normal/cursor.css')
 require('@css/normal/normal.css')
 // 配置在一起的日子
-const startTime = '2017/07/10'
+const startTime = '2020/06/20'
 // preload
 document.getElementById('birthday').remove()
 let s1 = require('@img/i-miss-u.png')
